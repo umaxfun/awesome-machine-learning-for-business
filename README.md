@@ -7,6 +7,7 @@ Machine learning frameworks, libraries, middleware, and other software with data
 * [Recommendations and Forecasting](#recommendations-and-forecasting)
 * [Computer Vision](#computer-vision)
 * [Speech to Text to Speech](#speech-to-text-to-speech)
+* [Machine Translation](#machine-translation)
 * [Natural Language Processing and Translation](#natural-language-processing-and-translation)
 * [Chat Bots](#chat-bots)
 * [Combined Offerings](#combined-offerings)
