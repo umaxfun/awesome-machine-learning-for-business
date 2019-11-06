@@ -14,7 +14,7 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 ## Ground Rules of this list
 
-1. Products included in this list should be usable without data analyst, data scientist, ML Engineer, or anyone alike.
+1. Products included in this list should be usable without data analyst, data scientist, ML Engineer, or anyone alike. Common roles like Systems Analyst and Software Developer should be enough to make use of.
 2. Products included in this list should offer clear business value.
 
 **😱Ultra Bad example:** BERT (Bidirectional Encoder Representations from Transformers) model is applying the bidirectional training of Transformer, a popular attention model, to language modeling. **Why ultra bad:** WHUUUT?! This kind of project should be listed in some data science list, not in the business one :)
