@@ -11,7 +11,6 @@ Machine learning frameworks, libraries, middleware, and other software with data
 * [Chat Bots](#chat-bots)
 * [Combined Offerings](#combined-offerings)
 
-
 ## Ground Rules of this list
 
 1. Products included in this list should be usable without data analyst, data scientist, ML Engineer, or anyone alike. Common roles like Systems Analyst and Software Developer should be enough to make use of.
@@ -45,7 +44,6 @@ Easily embed anomaly detection capabilities into your apps so users can quickly 
  Boost usability and user satisfaction with reinforcement learning–based capabilities only available through Azure. Prioritize relevant content, layouts, and conversations through an easy-to-use API. Use Personalizer as a standalone personalization solution or to complement an existing solution—with no machine learning expertise required.
 
 [Top ⇡](#awesome-machine-learning-for-business-)
-
 
 ### Amazon Forecast
 
@@ -81,17 +79,25 @@ Google has spent years delivering recommended content across flagship properties
 
 ## Computer Vision
 
-- Azure Computer Vision
-- Azure Face
-- Azure Form Recognizer
-- Azure Ink Recognizer
-- Azure Video Indexing
-- Amazon Rekognition
-- Amazon Textract
-- Google Vision AI
-- Google Video AI
-- Google Auto ML
-- Google Natural Language
+* Azure Computer Vision
+* Azure Face
+* Azure Form Recognizer
+* Azure Ink Recognizer
+* Azure Video Indexing
+* Amazon Rekognition
+* Amazon Textract
+* Google Vision AI
+* Google Video AI
+* Google Auto ML
+* Google Natural Language
+
+### Yandex Vision
+
+[Website](https://cloud.yandex.com/services/vision) | Business cases | Demo
+
+With Yandex Vision, you can create searchable e-document archives, automate your business workflow, or solve other tasks involving image analysis. Text recognition in images in 40 languages, image classification, face detection all these goodies in one simple API.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Watson Visual Recognition
 
@@ -103,14 +109,22 @@ Visual Recognition understands the contents of images. Analyze images for scenes
 
 ## Speech to Text to Speech
 
-- Azure Speaker Recognition
-- Azure Speech To Text
-- Azure Realtime Speech Translation
-- Azure Text To Speech
-- Amazon Polly
-- Google Cloud Speech-to-Text
-- Google Cloud Text-to-Speech
-- Google Translation
+* Azure Speaker Recognition
+* Azure Speech To Text
+* Azure Realtime Speech Translation
+* Azure Text To Speech
+* Amazon Polly
+* Google Cloud Speech-to-Text
+* Google Cloud Text-to-Speech
+* Google Translation
+
+[Top ⇡](#awesome-machine-learning-for-business-)
+
+### Yandex SpeechKit
+
+[Website](https://cloud.yandex.com/services/speechkit) | Business cases | [Demo (middle of the page)](https://cloud.yandex.com/services/speechkit)
+
+Service allows to recognize or voice any text in several languages. It composes speech from more than a million individual phonemes, with intonation set by a neural network trained on numerous real-life examples. The result of both STT and TTS is so-so in English and is best-in-class in Russian.
 
 [Top ⇡](#awesome-machine-learning-for-business-)
 
@@ -130,15 +144,43 @@ With Watson Text-to-Speech, you can generate human-like audio from written text.
 
 [Top ⇡](#awesome-machine-learning-for-business-)
 
-## Natural Language Processing and Translation
+## Machine Translation
 
-- Azure Language Understanding
-- Azure QnA Maker
-- Azure Text Analytics
-- Azure Translator Text
-- Amazon Comprehend
-- Amazon Translate
-- Amazon Transcribe
+* Azure Translator Text
+* Amazon Translate
+
+### DeepL
+
+[Website](https://www.deepl.com/pro.html#developer) | Business cases | [Demo](https://www.deepl.com/translator)
+
+The DeepL API is accessible with a DeepL Pro subscription (DeepL API plan). The API is an interface that allows other computer programs to send texts to our servers and receive high-quality translations. This opens a whole universe of opportunities for developers worldwide: Any translation product you can imagine can now be built on top of DeepL's superior translation technology.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
+
+
+### Yandex Translate
+
+[Website](https://cloud.yandex.com/services/translate) | Business cases | [Demo (middle of the page)](https://cloud.yandex.com/services/translate)
+
+With Yandex Translate you can translate between a wide array of languages (more than 90 are already available). Your service may send a request without a source language code: our API will detect language automatically.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
+
+### Watson Language Translator
+
+[Website](https://www.ibm.com/cloud/watson-language-translator) | Business cases | Demo
+
+Language Translator translates text from one language to another. Take news from across the globe and present it in your language. Communicate with your customers in their own language, and more.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
+
+## Natural Language Processing
+
+* Azure Language Understanding
+* Azure QnA Maker
+* Azure Text Analytics
+* Amazon Comprehend
+* Amazon Transcribe
 
 ### Watson Personality Insights
 
@@ -161,14 +203,6 @@ Analyze emotions and tones in what people write online, like tweets or reviews. 
 [Website](https://www.ibm.com/cloud/watson-natural-language-understanding) | Business cases | Demo
 
 Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
-
-[Top ⇡](#awesome-machine-learning-for-business-)
-
-### Watson Language Translator
-
-[Website](https://www.ibm.com/cloud/watson-language-translator) | Business cases | Demo
-
-Language Translator translates text from one language to another. Take news from across the globe and present it in your language. Communicate with your customers in their own language, and more.
 
 [Top ⇡](#awesome-machine-learning-for-business-)
 
@@ -207,4 +241,4 @@ Watson Assistant is IBM’s AI product that lets you build, train, and deploy co
 
 Watson Discovery is a corporate search technology that eliminates data silos and retrieves information buried inside enterprise data. Watson Discovery is easily trained to your domain. You supply internal documents, annotate several of them as an example, and after indexing ask questions in human language.
 
-[Top ⇡](#awesome-machine-learning-for-business-)
+[Top ⇡](#awesome-machine-learning-for-business-
