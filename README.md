@@ -2,7 +2,15 @@
 
 A curated list of awesome Machine Learning algorithms which can directly benefit your business or app without data scientist required.
 
-Machine learning frameworks, libraries, middleware, and other software with data scientists as a primary audience are **explicitly banned**.
+Machine learning frameworks, libraries, middleware, and other software with data scientists as a primary audience is **explicitly banned**.
+
+* [Recommendations and Forecasting](#recommendations-and-forecasting)
+* [Computer Vision](#computer-vision)
+* [Speech to Text to Speech](#speech-to-text-to-speech)
+* [Natural Language Processing and Translation](#natural-language-processing-and-translation)
+* [Chat Bots](#chat-bots)
+* [Combined Offerings](#combined-offerings)
+
 
 ## Ground Rules of this list
 
@@ -24,39 +32,51 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 ### Azure Anomaly Detector
 
-[Official website](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/) | Business cases | Demo
+[Website](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/) | Business cases | Demo
 
 Easily embed anomaly detection capabilities into your apps so users can quickly identify problems. Through an API, Anomaly Detector Preview ingests time-series data of all types and selects the best-fitting detection model for your data to ensure high accuracy. Customize the service to detect any level of anomaly and deploy it wherever you need it most. Azure is the only major cloud provider that offers anomaly detection as an AI service.
 
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 ### Azure Personalizer
 
- [Official website](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/) | Business cases | Demo
+ [Website](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/) | Business cases | Demo
 
  Boost usability and user satisfaction with reinforcement learning–based capabilities only available through Azure. Prioritize relevant content, layouts, and conversations through an easy-to-use API. Use Personalizer as a standalone personalization solution or to complement an existing solution—with no machine learning expertise required.
 
+[Top ⇡](#top)
+
 ### Amazon Forecast
 
-[Official website](https://aws.amazon.com/forecast/) | Business cases | Demo
+[Website](https://aws.amazon.com/forecast/) | Business cases | Demo
 
 Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. You only need to provide historical data, plus any additional data that you believe may impact your forecasts.
 
+[Top ⇡](#top)
+
 ### Amazon Personalize
 
-[Official website](https://aws.amazon.com/personalize/) | Business cases | Demo
+[Website](https://aws.amazon.com/personalize/) | Business cases | Demo
 
 With Amazon Personalize, you provide an activity stream from your application – clicks, page views, signups, purchases, and so forth – as well as an inventory of the items you want to recommend, such as articles, products, videos, or music. Amazon Personalize will process and examine the data, identify what is meaningful, select the right algorithms, and train and optimize a personalization model that is customized for your data. You can start serving personalized recommendations via a simple API call.
 
+[Top ⇡](#top)
+
 ### Google Cloud Inference API
 
-[Official website](https://cloud.google.com/inference/) | Business cases | Demo
+[Website](https://cloud.google.com/inference/) | Business cases | Demo
 
  Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With Cloud Inference API Alpha, you can gather insights in real time from your typed time-series datasets.
 
+[Top ⇡](#top)
+
 ### Google Recommendations AI
 
-[Official site](https://cloud.google.com/recommendations/) | Business cases | Demo
+[Website](https://cloud.google.com/recommendations/) | Business cases | Demo
 
 Google has spent years delivering recommended content across flagship properties such as Google Ads, Google Search, and YouTube. Recommendations AI draws on that experience to deliver personalized recommendations that suit each customer’s tastes and preferences across all your touchpoints.
+
+[Top ⇡](#top)
 
 ## Computer Vision
 
@@ -71,7 +91,6 @@ Google has spent years delivering recommended content across flagship properties
 - Google Video AI
 - Google Auto ML
 - Google Natural Language
-- Google Translation
 
 ## Speech to Text to Speech
 
@@ -82,7 +101,25 @@ Google has spent years delivering recommended content across flagship properties
 - Amazon Polly
 - Google Cloud Speech-to-Text
 - Google Cloud Text-to-Speech
+- Google Translation
 
+[Top ⇡](#top)
+
+### Watson Speech to Text
+
+[Website](https://www.ibm.com/cloud/watson-speech-to-text) | Business cases | Demo
+
+Watson Speech to Text is a cloud-native solution that uses deep-learning AI algorithms to apply knowledge about grammar, language structure, and audio/voice signal composition to create customizable speech recognition for optimal text transcription.
+
+[Top ⇡](#top)
+
+### Watson Text to Speech
+
+[Website](https://www.ibm.com/cloud/watson-text-to-speech) | Business cases | Demo
+
+With Watson Text-to-Speech, you can generate human-like audio from written text.  Improve the customer experience and engagement by interacting with users in multiple languages and tones. Increase content accessibility for users with different abilities, provide audio options to avoid distracted driving, or automate customer service interactions to increase efficiencies.
+
+[Top ⇡](#top)
 
 ## Natural Language Processing and Translation
 
@@ -91,17 +128,46 @@ Google has spent years delivering recommended content across flagship properties
 - Azure Text Analytics
 - Azure Translator Text
 - Amazon Comprehend
-- Amazon Translate 
+- Amazon Translate
 - Amazon Transcribe
 
+### Watson Language Translator
+
+[Website](https://www.ibm.com/cloud/watson-language-translator) | Business cases | Demo
+
+Language Translator translates text from one language to another. Take news from across the globe and present it in your language. Communicate with your customers in their own language, and more.
+
+[Top ⇡](#top)
+
+### Watson Natural Language Classifier
+
+[Website](https://www.ibm.com/cloud/watson-natural-language-classifier) | Business cases | Demo
+
+Natural Language Classifier allows developers to quickly and easily build custom text classification models without the need for a data science or machine learning background. Simply upload your training data in a .csv file and you are ready to go! Natural Language Classifier will return the best matching classes for a sentence, phrase, or paragraph. Identify next best actions, organize your data, or analyze your data for trends and new insights.
+
+[Top ⇡](#top)
 
 ## Chat Bots
 
-- Amazon Lex
-- Google DialogFlow 
+* Amazon Lex
+* Google DialogFlow
+
+### Watson Assistant
+
+[Official website](https://www.ibm.com/cloud/watson-assistant/) | Business cases | Demo
+
+Watson Assistant is IBM’s AI product that lets you build, train, and deploy conversational interactions into any application, device, or channel.
+
+![alt](https://www.ibm.com/cloud/watson-assistant/assets/img/Band3_Tab1_productgif_1002.gif)
 
 ## Combined Offerings
 
-- Azure Search
-- Azure Content Moderation
-- Azure Immersive Reader
+* Azure Search
+* Azure Content Moderation
+* Azure Immersive Reader
+
+### Watson Discovery
+
+[Website](https://www.ibm.com/cloud/watson-discovery) | Business cases | Demo
+
+Watson Discovery is a corporate search technology that eliminates data silos and retrieves information buried inside enterprise data. Watson Discovery is easily trained to your domain. You supply internal documents, annotate several of them as an example, and after indexing ask questions in human language.
