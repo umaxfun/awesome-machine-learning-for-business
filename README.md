@@ -65,7 +65,6 @@ Machine learning frameworks, libraries, middleware, and other software with data
 ## Chat Bots
 - Amazon Lex
 - Google DialogFlow 
-- 
 
 ## Combined Offerings
 - Azure Search
