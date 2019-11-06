@@ -44,7 +44,8 @@ Easily embed anomaly detection capabilities into your apps so users can quickly 
 
  Boost usability and user satisfaction with reinforcement learning–based capabilities only available through Azure. Prioritize relevant content, layouts, and conversations through an easy-to-use API. Use Personalizer as a standalone personalization solution or to complement an existing solution—with no machine learning expertise required.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 
 ### Amazon Forecast
 
@@ -52,7 +53,7 @@ Easily embed anomaly detection capabilities into your apps so users can quickly 
 
 Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. You only need to provide historical data, plus any additional data that you believe may impact your forecasts.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Amazon Personalize
 
@@ -60,7 +61,7 @@ Amazon Forecast uses machine learning to combine time series data with additiona
 
 With Amazon Personalize, you provide an activity stream from your application – clicks, page views, signups, purchases, and so forth – as well as an inventory of the items you want to recommend, such as articles, products, videos, or music. Amazon Personalize will process and examine the data, identify what is meaningful, select the right algorithms, and train and optimize a personalization model that is customized for your data. You can start serving personalized recommendations via a simple API call.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Google Cloud Inference API
 
@@ -68,7 +69,7 @@ With Amazon Personalize, you provide an activity stream from your application �
 
  Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With Cloud Inference API Alpha, you can gather insights in real time from your typed time-series datasets.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Google Recommendations AI
 
@@ -76,7 +77,7 @@ With Amazon Personalize, you provide an activity stream from your application �
 
 Google has spent years delivering recommended content across flagship properties such as Google Ads, Google Search, and YouTube. Recommendations AI draws on that experience to deliver personalized recommendations that suit each customer’s tastes and preferences across all your touchpoints.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ## Computer Vision
 
@@ -98,6 +99,8 @@ Google has spent years delivering recommended content across flagship properties
 
 Visual Recognition understands the contents of images. Analyze images for scenes, objects, colors, food, and other subjects that can give you insights into your visual content.
 
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 ## Speech to Text to Speech
 
 - Azure Speaker Recognition
@@ -109,7 +112,7 @@ Visual Recognition understands the contents of images. Analyze images for scenes
 - Google Cloud Text-to-Speech
 - Google Translation
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Watson Speech to Text
 
@@ -117,7 +120,7 @@ Visual Recognition understands the contents of images. Analyze images for scenes
 
 Watson Speech to Text is a cloud-native solution that uses deep-learning AI algorithms to apply knowledge about grammar, language structure, and audio/voice signal composition to create customizable speech recognition for optimal text transcription.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Watson Text to Speech
 
@@ -125,7 +128,7 @@ Watson Speech to Text is a cloud-native solution that uses deep-learning AI algo
 
 With Watson Text-to-Speech, you can generate human-like audio from written text.  Improve the customer experience and engagement by interacting with users in multiple languages and tones. Increase content accessibility for users with different abilities, provide audio options to avoid distracted driving, or automate customer service interactions to increase efficiencies.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ## Natural Language Processing and Translation
 
@@ -143,11 +146,15 @@ With Watson Text-to-Speech, you can generate human-like audio from written text.
 
 Predict personality characteristics, needs, and values via written text. Understand customer habits and preferences on an individual level—at scale.
 
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 ### Watson Tone Analyzer
 
 [Website](https://www.ibm.com/cloud/watson-tone-analyzer) | Business cases | Demo
 
 Analyze emotions and tones in what people write online, like tweets or reviews. Predict whether they are happy, sad, confident, and more.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Watson Natural Language Understanding
 
@@ -155,13 +162,15 @@ Analyze emotions and tones in what people write online, like tweets or reviews. 
 
 Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 ### Watson Language Translator
 
 [Website](https://www.ibm.com/cloud/watson-language-translator) | Business cases | Demo
 
 Language Translator translates text from one language to another. Take news from across the globe and present it in your language. Communicate with your customers in their own language, and more.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ### Watson Natural Language Classifier
 
@@ -169,7 +178,7 @@ Language Translator translates text from one language to another. Take news from
 
 Natural Language Classifier allows developers to quickly and easily build custom text classification models without the need for a data science or machine learning background. Simply upload your training data in a .csv file and you are ready to go! Natural Language Classifier will return the best matching classes for a sentence, phrase, or paragraph. Identify next best actions, organize your data, or analyze your data for trends and new insights.
 
-[Top ⇡](#top)
+[Top ⇡](#awesome-machine-learning-for-business-)
 
 ## Chat Bots
 
@@ -184,6 +193,8 @@ Watson Assistant is IBM’s AI product that lets you build, train, and deploy co
 
 ![alt](https://www.ibm.com/cloud/watson-assistant/assets/img/Band3_Tab1_productgif_1002.gif)
 
+[Top ⇡](#awesome-machine-learning-for-business-)
+
 ## Combined Offerings
 
 * Azure Search
@@ -195,3 +206,5 @@ Watson Assistant is IBM’s AI product that lets you build, train, and deploy co
 [Website](https://www.ibm.com/cloud/watson-discovery) | Business cases | Demo
 
 Watson Discovery is a corporate search technology that eliminates data silos and retrieves information buried inside enterprise data. Watson Discovery is easily trained to your domain. You supply internal documents, annotate several of them as an example, and after indexing ask questions in human language.
+
+[Top ⇡](#awesome-machine-learning-for-business-)
