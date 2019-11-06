@@ -11,11 +11,11 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 **😱Ultra Bad example:** BERT (Bidirectional Encoder Representations from Transformers) model is applying the bidirectional training of Transformer, a popular attention model, to language modeling. **Why ultra bad:** WHUUUT?! This kind of project should be listed in some data science list, not in the business one :)
 
-**👎Bad example:** A service that can transfer style from Picasso painting to the supplied photo. **Why bad:** the service drives no obvious business benefits, it exists just for fun and pure science. This kind of project should be listed in some data science list, not in the business one.
+**👎Bad example:** A service that can transfer style from Picasso painting to the supplied photo. **Why bad:** the service drives no obvious business benefit, it exists just for fun and pure science. This kind of project should be listed in some data science list, not in the business one.
 
-**🤞Medium example**: a service that can tell what objects reside on the supplied photo. **Why medium:** the service can offer some business benefits in some rare case. E.g. when you have a big bunch of the photos and want to index them all; exists as a part of a larger solution.
+**🤞Medium example**: a service that can tell what objects reside on the supplied photo. **Why medium:** the service can offer business benefit in some rare case. E.g. when you have a big bunch of the photos and want to index them all; exists as a part of a larger solution.
 
-**💪Good example**: a service which can extract text from scanned invoices (it has a clear business value, and can be directly evaluated and used, such projects are welcome here).
+**💪Good example**: a service which can extract text from scanned invoices. **Why good:** the service has a clear business value, and can be directly evaluated and used, such projects are most welcome here.
 
 3. Every product included in this list should be offered for immediate use, online, without any kind of "Contact Us" or "Request Quote" walls, however, credit card information and/or company data may be required for the access.
 4. Every product included in this list should have a demo page where everyone may supply his or her data and get the result.
