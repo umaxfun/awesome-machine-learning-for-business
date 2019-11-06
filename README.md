@@ -22,13 +22,41 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 ## Recommendations and Forecasting
 
-- [Azure Anomaly Detector](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/)
-- [Azure Personalizer](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/)
-- [Amazon Forecast](https://aws.amazon.com/forecast/)
-- [Amazon Personalize](https://aws.amazon.com/personalize/)
-- [Google Cloud Inference API](https://cloud.google.com/inference/)
-- [Google Recommendations AI](https://cloud.google.com/recommendations/)
+### Azure Anomaly Detector
 
+[Official site](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/)
+
+Easily embed anomaly detection capabilities into your apps so users can quickly identify problems. Through an API, Anomaly Detector Preview ingests time-series data of all types and selects the best-fitting detection model for your data to ensure high accuracy. Customize the service to detect any level of anomaly and deploy it wherever you need it most. Azure is the only major cloud provider that offers anomaly detection as an AI service.
+
+### Azure Personalizer
+
+ [Official site](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/)
+
+ Boost usability and user satisfaction with reinforcement learning–based capabilities only available through Azure. Prioritize relevant content, layouts, and conversations through an easy-to-use API. Use Personalizer as a standalone personalization solution or to complement an existing solution—with no machine learning expertise required.
+
+### Amazon Forecast
+
+[Official site](https://aws.amazon.com/forecast/)
+
+Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. You only need to provide historical data, plus any additional data that you believe may impact your forecasts.
+
+### Amazon Personalize
+
+[Official site](https://aws.amazon.com/personalize/)
+
+With Amazon Personalize, you provide an activity stream from your application – clicks, page views, signups, purchases, and so forth – as well as an inventory of the items you want to recommend, such as articles, products, videos, or music. Amazon Personalize will process and examine the data, identify what is meaningful, select the right algorithms, and train and optimize a personalization model that is customized for your data. You can start serving personalized recommendations via a simple API call.
+
+### Google Cloud Inference API
+
+[Official site](https://cloud.google.com/inference/)
+
+ Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With Cloud Inference API Alpha, you can gather insights in real time from your typed time-series datasets.
+
+### Google Recommendations AI
+
+[Official site](https://cloud.google.com/recommendations/)
+
+Google has spent years delivering recommended content across flagship properties such as Google Ads, Google Search, and YouTube. Recommendations AI draws on that experience to deliver personalized recommendations that suit each customer’s tastes and preferences across all your touchpoints.
 
 ## Computer Vision
 
