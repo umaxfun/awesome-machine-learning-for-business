@@ -1,11 +1,13 @@
 # Awesome machine learning for business ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-A curated list of awesome Machine Learning algorithms which can directly benefit your business or app without data scientist required. 
+
+A curated list of awesome Machine Learning algorithms which can directly benefit your business or app without data scientist required.
 
 Machine learning frameworks, libraries, middleware, and other software with data scientists as a primary audience are **explicitly banned**.
 
-# Ground Rules of this list:
+## Ground Rules of this list
+
 1. Products included in this list should be usable without data analyst, data scientist, ML Engineer, or anyone alike.
-2. Products included in this list should offer clear business value. 
+2. Products included in this list should offer clear business value.
 
 **😱Ultra Bad example:** BERT (Bidirectional Encoder Representations from Transformers) model is applying the bidirectional training of Transformer, a popular attention model, to language modeling. **Why ultra bad:** WHUUUT?! This kind of project should be listed in some data science list, not in the business one :)
 
@@ -15,8 +17,11 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 **💪Good example**: a service which can extract text from scanned invoices (it has a clear business value, and can be directly evaluated and used, such projects are welcome here).
 
+3. Every product included in this list should be offered for immediate use, online, without any kind of "Contact Us" or "Request Quote" walls, however, credit card information and/or company data may be required for the access.
+4. Every product included in this list should have a demo page where everyone may supply his or her data and get the result.
 
 ## Recommendations and Forecasting
+
 - Azure Anomaly Detector
 - Azure Personalizer
 - Amazon Forecast
@@ -26,6 +31,7 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 
 ## Computer Vision
+
 - Azure Computer Vision
 - Azure Face
 - Azure Form Recognizer
@@ -40,6 +46,7 @@ Machine learning frameworks, libraries, middleware, and other software with data
 - Google Translation
 
 ## Speech to Text to Speech
+
 - Azure Speaker Recognition
 - Azure Speech To Text
 - Azure Realtime Speech Translation
@@ -50,6 +57,7 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 
 ## Natural Language Processing and Translation
+
 - Azure Language Understanding
 - Azure QnA Maker
 - Azure Text Analytics
@@ -60,11 +68,12 @@ Machine learning frameworks, libraries, middleware, and other software with data
 
 
 ## Chat Bots
+
 - Amazon Lex
 - Google DialogFlow 
 
 ## Combined Offerings
+
 - Azure Search
 - Azure Content Moderation
 - Azure Immersive Reader
-
