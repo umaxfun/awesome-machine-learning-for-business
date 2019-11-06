@@ -92,6 +92,12 @@ Google has spent years delivering recommended content across flagship properties
 - Google Auto ML
 - Google Natural Language
 
+### Watson Visual Recognition
+
+[Website](https://www.ibm.com/cloud/watson-visual-recognition) | Business cases | Demo
+
+Visual Recognition understands the contents of images. Analyze images for scenes, objects, colors, food, and other subjects that can give you insights into your visual content.
+
 ## Speech to Text to Speech
 
 - Azure Speaker Recognition
@@ -130,6 +136,24 @@ With Watson Text-to-Speech, you can generate human-like audio from written text.
 - Amazon Comprehend
 - Amazon Translate
 - Amazon Transcribe
+
+### Watson Personality Insights
+
+[Website](https://www.ibm.com/cloud/watson-personality-insights) | Business cases | Demo
+
+Predict personality characteristics, needs, and values via written text. Understand customer habits and preferences on an individual level—at scale.
+
+### Watson Tone Analyzer
+
+[Website](https://www.ibm.com/cloud/watson-tone-analyzer) | Business cases | Demo
+
+Analyze emotions and tones in what people write online, like tweets or reviews. Predict whether they are happy, sad, confident, and more.
+
+### Watson Natural Language Understanding
+
+[Website](https://www.ibm.com/cloud/watson-natural-language-understanding) | Business cases | Demo
+
+Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 
 ### Watson Language Translator
 
