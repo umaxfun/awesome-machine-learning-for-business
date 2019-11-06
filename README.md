@@ -18,16 +18,16 @@ Machine learning frameworks, libraries, middleware, and other software with data
 **💪Good example**: a service which can extract text from scanned invoices. **Why good:** the service has a clear business value, and can be directly evaluated and used, such projects are most welcome here.
 
 3. Every product included in this list should be offered for immediate use, online, without any kind of "Contact Us" or "Request Quote" walls, however, credit card information and/or company data may be required for the access.
-4. Every product included in this list should have a demo page where everyone may supply his or her data and get the result.
+4. To be highlighted every product included in this list should have a demo page where everyone may supply his or her data and get the result.
 
 ## Recommendations and Forecasting
 
-- Azure Anomaly Detector
-- Azure Personalizer
-- Amazon Forecast
-- Amazon Personalize
-- Google Cloud Inference API
-- Google Recommendations AI
+- [Azure Anomaly Detector](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/)
+- [Azure Personalizer](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/)
+- [Amazon Forecast](https://aws.amazon.com/forecast/)
+- [Amazon Personalize](https://aws.amazon.com/personalize/)
+- [Google Cloud Inference API](https://cloud.google.com/inference/)
+- [Google Recommendations AI](https://cloud.google.com/recommendations/)
 
 
 ## Computer Vision
