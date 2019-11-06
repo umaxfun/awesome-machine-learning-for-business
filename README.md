@@ -38,9 +38,6 @@ Machine learning frameworks, libraries, middleware, and other software with data
 - Google Auto ML
 - Google Natural Language
 - Google Translation
-- 
-
-
 
 ## Speech to Text to Speech
 - Azure Speaker Recognition
